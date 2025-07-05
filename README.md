@@ -2,7 +2,8 @@
 
 A user-friendly desktop application that compresses and decompresses `.txt` files using the **Huffman Coding** algorithm. Built with **Python** and **Tkinter**, this tool allows users to efficiently reduce file sizes with real-time feedback and a clean interface.
 
-![GUI Screenshots](assets/Screenshot1.png)(assets/Screenshot2.png)
+![GUI Screenshots](assets/Screenshot1.png)
+![GUI Screenshots](assets/Screenshot2.png)
 
 ---
 
