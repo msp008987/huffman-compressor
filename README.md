@@ -41,7 +41,7 @@ cd huffman-compressor
 ### 2. Run the Application
 
 ```bash
-python gui.py
+python main.py
 ```
 
 You’ll see a GUI window where you can:
